@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LEANDRO\\CURSOS\\AcademiaAtosNET2023\\Aula19\\AcademiaAtos_Exercicio_OO\\AcademiaAtos_Exercicio01\\AcademiaAtos_Exercicio01.csproj",
+      "projectUniqueName": "D:\\LEANDRO\\CURSOS\\AcademiaAtosNET2023\\Aula18\\AcademiaAtos_Exercicio_OO\\AcademiaAtos_Exercicio01\\AcademiaAtos_Exercicio01.csproj",
       "projectName": "AcademiaAtos_Exercicio01",
-      "projectPath": "D:\\LEANDRO\\CURSOS\\AcademiaAtosNET2023\\Aula19\\AcademiaAtos_Exercicio_OO\\AcademiaAtos_Exercicio01\\AcademiaAtos_Exercicio01.csproj",
+      "projectPath": "D:\\LEANDRO\\CURSOS\\AcademiaAtosNET2023\\Aula18\\AcademiaAtos_Exercicio_OO\\AcademiaAtos_Exercicio01\\AcademiaAtos_Exercicio01.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "D:\\LEANDRO\\CURSOS\\AcademiaAtosNET2023\\Aula19\\AcademiaAtos_Exercicio_OO\\AcademiaAtos_Exercicio01\\obj\\",
+      "outputPath": "D:\\LEANDRO\\CURSOS\\AcademiaAtosNET2023\\Aula18\\AcademiaAtos_Exercicio_OO\\AcademiaAtos_Exercicio01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
